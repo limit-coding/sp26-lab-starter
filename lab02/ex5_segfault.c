@@ -11,6 +11,7 @@ void jedi(int *arr, int size) {
 }
 
 void ben(int *arr, int size) {
+  //这里更改了，原先是int* ptr=10;
     int x = 0;
     int *ptr = &x;
     *ptr = 10;
