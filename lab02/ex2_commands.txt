@@ -3,3 +3,19 @@
 # Lines starting with # are comments, feel free to add any to document your commands
 
 # Please add your commands below this line
+start
+next
+next
+next
+next
+step
+step
+print password --> $3 = 0x555555556029 "qrtv?,mp!ltrA0b13rab4ham"
+finish
+step
+next
+next
+next
+print result -->$5 = '\000' <repeats 113 times>
+print length --> $6 = false
+quit
